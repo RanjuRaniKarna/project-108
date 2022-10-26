@@ -1,0 +1,24 @@
+.header h1{ 
+text-align: center;
+font-size: 45px;
+font-weight:
+bold; color:crimson;
+
+     } 
+     .header p{ text-align: center;
+font-size: 22; } 
+.main button{ 
+width:100px;
+height:45px;
+ } 
+.main
+{ background-color: khaki;
+padding:30px }
+.footer{ 
+text-shadow: 5px 5px 5px rgb(128, 136, 150); 
+font-weight: 80px; 
+font-size:60px; 
+background-color:lightblue;
+width: 100%;
+bottom: 0;
+position: fixed; }
